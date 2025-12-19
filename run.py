@@ -1,4 +1,4 @@
-import streamlit as st
+import run as st
 import cv2
 import tempfile
 import time
